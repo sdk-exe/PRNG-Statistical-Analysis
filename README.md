@@ -11,7 +11,7 @@ Pseudorandom number generators (PRNGs) are a cornerstone of modern computing, cr
 
 The goal was not just to rank generators, but to deeply understand the trade-offs between their algorithmic structure, statistical quality, and entropy. This project moves beyond simple pass/fail tests to ask a more fundamental question: What does it truly mean for an algorithmic sequence to be "random"?
 
-The complete research paper is available here: Khemka_PRNG_Research_Paper.pdf
+The complete research paper is available here: [**Khemka_PRNG_Research_Paper.pdf**](./Khemka_PRNG_Research_Paper.pdf)
 
 ## ✨ Key Features & Contributions
 This project's contribution is not just in its results, but in its methodology and original work:
@@ -67,10 +67,15 @@ The script will run the full analysis on all seven generators and print the fina
 	├── statistical_tests.py
 	└── main.py
 
-## 🎓 Publication Status
+## 🎓 Publication Information
 
-The manuscript will be submitted for peer review to a scientific journal.
+This work has been published in the *International Organization Of Scientific Research (IOSR) - Journal of Computer Engineering (IOSR-JCE)*
 
-A citation will be added here upon formal publication.
+Khemka, S. D. (2025). A Statistical and Entropy-Based Analysis of Randomness in Pseudorandom Number Generators (PRNGs): Are They Truly Random? *IOSR Journal of Computer Engineering (IOSR-JCE)*
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+**The final published version is available here:**
+[Published Paper](https://www.iosrjournals.org/iosr-jce/papers/Vol27-issue3/Ser-3/J2703037791.pdf)
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
