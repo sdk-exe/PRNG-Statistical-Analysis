@@ -41,7 +41,7 @@ The entire benchmark can be reproduced with a few simple commands.
 
 1.Clone the Repository
 
-	git clone [https://github.com/](https://github.com/)sdk-exe/PRNG-Statistical-Analysis.git
+	git clone https://github.com/sdk-exe/PRNG-Statistical-Analysis.git
 
 	cd PRNG-Statistical-Analysis
 
